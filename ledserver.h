@@ -6,6 +6,8 @@
 #include <QTcpSocket>
 #include "gpio.h"
 
+
+
 class LedServer : public QObject
 {
     Q_OBJECT
